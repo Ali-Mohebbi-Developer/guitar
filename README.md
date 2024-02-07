@@ -1,6 +1,6 @@
 # guitar Website with html and css
 
-- [Demo Project](https://ali-mohebbi-developer.github.io/Snapp-Project/)
+- [Demo Project](https://ali-mohebbi-developer.github.io/guitar/)
 
 - Developed by Ali Mohebbi
 
