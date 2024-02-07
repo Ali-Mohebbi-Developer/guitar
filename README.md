@@ -14,4 +14,4 @@
 
 ![guitar-1](https://github.com/Ali-Mohebbi-Developer/guitar/assets/126477170/dd2e6e17-04ef-4f8b-9a8e-bebc4b485bd0)
 
-![Snapp-view-1](https://github.com/Ali-Mohebbi-Developer/Snapp-Project/assets/126477170/9772d579-7c65-4428-85c5-1168ef452d1a)
+![guitar-2](https://github.com/Ali-Mohebbi-Developer/guitar/assets/126477170/ea0a911e-2222-419f-bf02-be1e5c9677ac)
