@@ -1,4 +1,4 @@
-# guitar Website with html and css
+# Guitar Website with html and css
 
 - [Demo Project](https://ali-mohebbi-developer.github.io/guitar/)
 
@@ -6,7 +6,7 @@
 
 - Created - 2024-2-5
 
-- Technologies Used - Html , css , scss
+- Technologies Used - Html , Css , Scss
 
 - Role - Frontend
 
